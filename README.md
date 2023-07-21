@@ -12,3 +12,6 @@ The purpose of this repository is to provide accessible and organized tobacco us
 Note:
 
 The data in this repository is based on publicly available information from the provided website. Researchers and users are advised to refer to the original data sources and respect the terms of service of the website from which the data was scraped.
+![newplot_men](https://github.com/arnabde05/tobacco-use-India-analysis/assets/87455060/902372ed-3741-4ef7-a4e9-2d6c2cd26dbe)
+
+![newplot_women](https://github.com/arnabde05/tobacco-use-India-analysis/assets/87455060/23812581-cb6a-4c28-9533-9c026a68e234)
